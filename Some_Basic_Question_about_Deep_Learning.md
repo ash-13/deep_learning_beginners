@@ -29,3 +29,8 @@ The process of standardizing and reforming data is called “Data Normalization.
 # **5. What is the Boltzmann Machine?**
 
 One of the most basic Deep Learning models is a Boltzmann Machine, resembling a simplified version of the Multi-Layer Perceptron. This model features a visible input layer and a hidden layer -- just a two-layer neural net that makes stochastic decisions as to whether a neuron should be on or off. Nodes are connected across layers, but no two nodes of the same layer are connected.
+
+
+# **6. What Is the Role of Activation Functions in a Neural Network?**
+
+At the most basic level, an activation function decides whether a neuron should be fired or not. It accepts the weighted sum of the inputs and bias as input to any activation function. Step function, Sigmoid, ReLU, Tanh, and Softmax are examples of activation functions.
